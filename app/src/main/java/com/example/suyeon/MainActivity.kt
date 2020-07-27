@@ -49,6 +49,6 @@ class MainActivity : AppCompatActivity() {
         // 데이타 클래스는 기본적으로 getter, setter 함수 생성
         // java Object 클래스에 정의된 함수들을 자동으로 생성한다.
         data class DataUser(var name: String, var age: Int)
-
+        val data user
     }
 }
